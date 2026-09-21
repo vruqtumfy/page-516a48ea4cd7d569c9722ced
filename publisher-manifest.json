@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "4be37aadcbb886ac79cbab36",
+  "owner": "vruqtumfy",
+  "repo": "page-516a48ea4cd7d569c9722ced",
+  "title": "QTY",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "516a48ea4cd7d569c9722ced",
+      "a": "QTY",
+      "b": "机场官网线路发布页",
+      "entity": "QTY",
+      "brand": "QTY",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "1d54327891d90c3ecc57b961fa62532bb64eb7eb511ee6f3d2197d3c8cd787de",
+      "content": {
+        "primary_entity": "QTY",
+        "keyword1": "QTY",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，QTY 围绕海外访问场景提供订阅式网络加速服务，当前基础版每月 15 元含 100GB 流量，旗舰版每月 35 元含 300GB 流量与 IPLC 专线，团队版每月 85 元含 1000GB 流量与 20 台设备在线额度。不同套餐对应不同流媒体解锁、设备数量与线路优先级，可按使用人数和带宽需求逐项对比后决定。",
+          "AI_HERO_SUBTITLE": "海外加速订阅按需选配",
+          "AI_HERO_INTRO": "QTY 是面向跨境访问场景的订阅式网络加速器，提供基础版、旗舰版与团队版三档方案。每档方案在流量、并发设备数、流媒体解锁与线路类型上有所区分，选择时先确认常用设备量与月均流量，再匹配对应订阅周期。",
+          "AI_VISUAL_TITLE": "QTY 加速套餐一站对比",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB，3 台设备在线",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线，5 台设备在线",
+          "AI_HIGHLIGHT_3": "团队版每月 1000GB，20 台设备在线",
+          "AI_FEATURES_TITLE": "从套餐到设备的选择要点",
+          "AI_FEATURES_INTRO": "按使用规模逐项对照，订阅前先明确流量与设备需求，再匹配线路与周期。",
+          "AI_FEATURE_TITLE_1": "按流量规模选择",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 适合单人或轻量浏览；旗舰版 300GB 覆盖日常影音与远程办公；团队版 1000GB 满足多设备共享。",
+          "AI_FEATURE_TITLE_2": "按设备数量选择",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。家庭或小组共享时优先核对设备上限。",
+          "AI_FEATURE_TITLE_3": "按订阅周期选择",
+          "AI_FEATURE_TEXT_3": "三个版本均提供月付与年付选项，年付价格为 ¥150、¥350 与 ¥850，长期使用可按年付折算判断是否匹配稳定需求。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "不同操作系统对应不同订阅客户端，安装后导入 QTY 订阅链接即可使用，具体兼容性以客户端当前版本说明为准。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月含 100GB 与 3 台设备；旗舰版 ¥35/月含 300GB、5 台设备与 IPLC 专线；团队版 ¥85/月含 1000GB 与 20 台设备。年付分别按 ¥150、¥350、¥850 计。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "从确认流量需求到选定套餐，再到导入订阅信息，每一步都对应一个可执行的动作。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据月均流量、常用设备数量和是否需要专线，从基础版、旗舰版、团队版中选定一档并确认月付或年付。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认当前设备系统与所需客户端版本，核对套餐允许的并发设备数，避免超出在线额度。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照所选客户端文档导入 QTY 订阅信息，完成后在设备上测试线路连通性与访问速度。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "QTY 加速器支持哪些设备使用？",
+          "AI_FAQ_ANSWER_1": "电脑和手机端均有对应客户端可选，安装后导入订阅信息使用。不同系统的客户端版本存在差异，建议按设备系统选择适配客户端，并以客户端当前说明确认兼容范围。",
+          "AI_FAQ_QUESTION_2": "三个套餐可以同时在线几台设备？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。如果需要在手机、平板、电脑之间切换使用，可以按常用设备总数选择对应档位。",
+          "AI_FAQ_QUESTION_3": "月付和年付价格差多少？",
+          "AI_FAQ_ANSWER_3": "基础版月付 ¥15、年付 ¥150；旗舰版月付 ¥35、年付 ¥350；团队版月付 ¥85、年付 ¥850。年付相当于按月十个月左右折算，长期使用的用户可优先考虑年付。",
+          "AI_FAQ_QUESTION_4": "旗舰版的 IPLC 专线适合哪些场景？",
+          "AI_FAQ_ANSWER_4": "IPLC 专线针对游戏加速做了线路优化，延迟表现相对普通线路更稳定。常玩联机游戏或对实时性要求较高的用户，可在旗舰版中体验专线节点。",
+          "AI_FAQ_QUESTION_5": "订阅到期后如何续费或切换套餐？",
+          "AI_FAQ_ANSWER_5": "在订阅周期结束前，可按当前使用情况选择同档续费或升级到更高档位。调整套餐后重新导入新的订阅信息即可，设备数量与流量额度会随新套餐生效。",
+          "AI_CLOSING_TITLE": "选对套餐，稳定加速",
+          "AI_CLOSING_TEXT": "按设备量和流量需求挑一档 QTY 套餐，完成订阅配置后即可开始跨境访问。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "feilipu1688.cn",
+    "host": "feilipu1688.cn"
+  },
+  "file_hashes": {
+    "index.html": "3758173ecdd33f5d4ed59b33a218e9da148001c6413bb8cb326140a802b39ef1",
+    "sitemap.xml": "61f0008d0cfe4711cf8d8baf5ad787a72df2e3c3a711f5a5a5be7ad9985ac383",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "9fd3c89da71432ca12131c4a1582e6d395a2ad2ef09359d3b04ea3fff60ccd1e",
+    "robots.txt": "4e8681fbb44f30f6dbaa0675335bada75beec582de0f35f11cee2fb8269066a4",
+    "0a762c262f1fd5db9ae0f1233aa006b1.txt": "79668b45cc49b6dc974f5de57e0f10002688cd6668f3e2b599192e8ce0316dbf"
+  },
+  "revision": "b5cfa0b4243a336e22075405db97a0c7d44ca654b8c1416dc67c3f51e40cbea3"
+}
